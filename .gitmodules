@@ -1,3 +1,7 @@
 [submodule "themes/gokarna"]
 	path = themes/gokarna
 	url = https://github.com/526avijitgupta/gokarna.git
+[submodule "petrolepapillons"]
+	path = petrolepapillons
+	url = https://github.com/SomeMissingColon/petrolepapillons.git
+	branch = main

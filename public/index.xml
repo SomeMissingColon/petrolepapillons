@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pétrole et Papillons</title>
-    <link>/</link>
+    <link>https://SomeMissingColon.github.io/petrolepapillons/</link>
     <description>Recent content on Pétrole et Papillons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Mar 2023 09:35:22 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Mar 2023 09:35:22 -0500</lastBuildDate><atom:link href="https://SomeMissingColon.github.io/petrolepapillons/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Landing</title>
-      <link>/landing/</link>
+      <link>https://SomeMissingColon.github.io/petrolepapillons/landing/</link>
       <pubDate>Wed, 01 Mar 2023 10:16:38 -0500</pubDate>
       
-      <guid>/landing/</guid>
+      <guid>https://SomeMissingColon.github.io/petrolepapillons/landing/</guid>
       <description>rendering md </description>
     </item>
     
     <item>
       <title>Mission</title>
-      <link>/mission/</link>
+      <link>https://SomeMissingColon.github.io/petrolepapillons/mission/</link>
       <pubDate>Wed, 01 Mar 2023 10:16:38 -0500</pubDate>
       
-      <guid>/mission/</guid>
+      <guid>https://SomeMissingColon.github.io/petrolepapillons/mission/</guid>
       <description>Prêts à quitter le cocon? Le progrès technologique nous a permis de communiquer avec n’importe qui, n’importe quand, et n’importe comment! Simultanément, il nous a aussi coupé l’envie de communiquer avec ceux qui diffèrent de nous politiquement. Pourquoi?
 Peu importe! Nous devons passer plus de temps à combattre cet effet pervers qu’à l&amp;rsquo;intellectualiser encore et encore. Pétrole et Papillons tentent de prendre une place qui est restée vide trop longtemps: un organisme qui se focalise à 100% sur créer un lien entre les extrêmes.</description>
     </item>
     
     <item>
       <title>Pétrole, santé ou pas?</title>
-      <link>/posts/first_post/</link>
+      <link>https://SomeMissingColon.github.io/petrolepapillons/posts/first_post/</link>
       <pubDate>Wed, 01 Mar 2023 09:35:22 -0500</pubDate>
       
-      <guid>/posts/first_post/</guid>
+      <guid>https://SomeMissingColon.github.io/petrolepapillons/posts/first_post/</guid>
       <description>Pétrole, santé ou pas? </description>
     </item>
     

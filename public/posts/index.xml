@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Pétrole et Papillons</title>
-    <link>/posts/</link>
+    <link>https://SomeMissingColon.github.io/petrolepapillons/posts/</link>
     <description>Recent content in Posts on Pétrole et Papillons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Mar 2023 09:35:22 -0500</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Mar 2023 09:35:22 -0500</lastBuildDate><atom:link href="https://SomeMissingColon.github.io/petrolepapillons/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pétrole, santé ou pas?</title>
-      <link>/posts/first_post/</link>
+      <link>https://SomeMissingColon.github.io/petrolepapillons/posts/first_post/</link>
       <pubDate>Wed, 01 Mar 2023 09:35:22 -0500</pubDate>
       
-      <guid>/posts/first_post/</guid>
+      <guid>https://SomeMissingColon.github.io/petrolepapillons/posts/first_post/</guid>
       <description>Pétrole, santé ou pas? </description>
     </item>
     
