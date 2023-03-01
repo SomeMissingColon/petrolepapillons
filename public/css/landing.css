@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+    margin: 0;
+}
+
+#slider {
+    display: none;
+    width:90%;
+    position: absolute;
+    bottom:10vh;
+    left:10vh;
+    z-index: 3;
+    background-color: rgba(22, 20, 20, 0.712);
+    border-radius: 10%;
+}
+#button-slider {
+    background-size:auto;
+    height: 10vh;
+    border-radius: 50%;
+    width:10vh;
+    border:solid 0.5vh black;
+    box-shadow: 0.1vh 0.5vh 2vh darkgrey;
+
+}
+
+.side {
+    height: 100vh;
+    width:100%;
+    display:grid;
+    place-items: center;
+    overflow: hidden;
+    position: absolute;
+}
+
+.side .title {
+    color:white;
+    font-size: 8vw;
+    margin: 0px 15vw;
+    width: 70vw
+}
+
+#left{
+    background-color: #8B2500 ;
+    z-index:2
+}
+#right{
+    background-color: #FDB813 ;
+    
+}
