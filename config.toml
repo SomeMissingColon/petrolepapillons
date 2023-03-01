@@ -1,0 +1,50 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Pétrole et Papillons'
+theme = 'goKarna'
+
+enableRobotsTXT = true
+
+[params]
+  showPostsOnHomePage = "recent"
+  avatarURL = "/images/avatar.png"
+  favicon= "//favicon.ico"  
+  AccentColor ="#FDB813"
+[menu]
+  [[menu.main]]
+    # Unique identifier for a menu item
+    identifier = "posts"
+
+    url = "/posts/"
+    
+    # You can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+
+    # You can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+
+    # Display name
+    name = "Articles"
+
+    # Weights are used to determine the ordering
+    weight = 1
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+    
+    [[menu.main]]
+    identifier = "Mission"
+    name = "Mission"
+    url = "/mission/"
+    weight = 4
+
+     [[menu.main]]
+    identifier = "Équipe"
+    name = "Équipe"
+    url = "/Équipe/"
+    weight = 5
+
+    

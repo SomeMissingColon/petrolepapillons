@@ -1,0 +1,9 @@
+<article class="post-title" >
+    <a href="{{ .Permalink }}" class="post-link" >
+        {{ .Title }}
+        <img src="{{.Params.ImageURl}}" alt="">
+    </a>
+    <span class="post-date">{{ dateFormat "January 2, 2006" .Date }}</span>
+    <div class="flex-break"></div>
+   
+</article>
