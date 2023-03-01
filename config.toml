@@ -1,7 +1,7 @@
 baseURL = ''
 languageCode = 'en-us'
 title = 'Pétrole et Papillons'
-theme = 'gokarna'
+theme = 'goKarna'
 
 enableRobotsTXT = true
 
