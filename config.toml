@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://SomeMissingColon.github.io/petrolepapillons'
 languageCode = 'en-us'
 title = 'Pétrole et Papillons'
 theme = 'goKarna'
