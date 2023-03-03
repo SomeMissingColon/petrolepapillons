@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://SomeMissingColon.github.io/petrolepapillons/landing/</loc>
+    <loc>https:/landing/</loc>
     <lastmod>2023-03-01T10:16:38-05:00</lastmod>
   </url><url>
-    <loc>https://SomeMissingColon.github.io/petrolepapillons/mission/</loc>
+    <loc>https:/mission/</loc>
     <lastmod>2023-03-01T10:16:38-05:00</lastmod>
   </url><url>
-    <loc>https://SomeMissingColon.github.io/petrolepapillons/</loc>
+    <loc>https:/</loc>
     <lastmod>2023-03-01T09:35:22-05:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://SomeMissingColon.github.io/petrolepapillons/tags/p%C3%A9trole/</loc>
+    <loc>https:/tags/p%C3%A9trole/</loc>
     <lastmod>2023-03-01T09:35:22-05:00</lastmod>
   </url><url>
-    <loc>https://SomeMissingColon.github.io/petrolepapillons/posts/first_post/</loc>
+    <loc>https:/posts/first_post/</loc>
     <lastmod>2023-03-01T09:35:22-05:00</lastmod>
   </url><url>
-    <loc>https://SomeMissingColon.github.io/petrolepapillons/posts/</loc>
+    <loc>https:/posts/</loc>
     <lastmod>2023-03-01T09:35:22-05:00</lastmod>
   </url><url>
-    <loc>https://SomeMissingColon.github.io/petrolepapillons/tags/</loc>
+    <loc>https:/tags/</loc>
     <lastmod>2023-03-01T09:35:22-05:00</lastmod>
   </url><url>
-    <loc>https://SomeMissingColon.github.io/petrolepapillons/categories/</loc>
+    <loc>https:/categories/</loc>
   </url>
 </urlset>
