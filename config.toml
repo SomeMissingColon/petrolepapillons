@@ -8,7 +8,7 @@ enableRobotsTXT = true
 [params]
   showPostsOnHomePage = "recent"
   avatarURL = "//avatar.png"
-  favicon= "//git favicon.ico"  
+  favicon= "//favicon.ico"  
   AccentColor ="#FDB813"
 [menu]
   [[menu.main]]
